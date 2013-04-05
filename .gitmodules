@@ -1,0 +1,3 @@
+[submodule "m4m"]
+	path = m4m
+	url = https://github.com/fape/gphoto2-m4.git
